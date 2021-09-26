@@ -1,6 +1,6 @@
 # paymentgateway
 
-A new Flutter project.
+This is a project to learn how to integrate razorpay in flutter
 
 ## Getting Started
 
